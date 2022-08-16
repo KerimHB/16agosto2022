@@ -25,7 +25,7 @@
     $nombre = "Pepe";
     echo "Hola <b> $nombre </b>, bienvenido a clase";
     echo "</br>";
-    echo "hola" . $nombre . "gusto de verte"
+    echo "hola" . $nombre . "gusto de verte";
     ?>
 </body>
 
